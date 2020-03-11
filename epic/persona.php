@@ -25,6 +25,16 @@
 					<li>Finding new musics</li>
 					<li>Creating different playlists</li>
 				</ul>
+	<h2>Technology</h2>
+			<div class="center">
+				<ul>
+					<li>Phone: Iphone 7</li>
+					<li>laptop: Dell intel core i5</li>
+					<li>OS: Windows 10</li>
+					<li>Internet: Proficient</li>
+
+				</ul>
+			</div>
 	<h2>Frustrations</h2>
 			<div class="center">
 				<ul>

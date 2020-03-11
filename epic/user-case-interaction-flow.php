@@ -7,8 +7,9 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+<h1>User Case Interaction Flow</h1>
+<div class="center">
 <p>I just closed from work and I am on my way home, It was a stressful day, I need to listen to my favorite playlist</p>
-	<div class="center">
 		<ul>
 			<li>While logged into my spotify account, I click on my library</li>
 			<li>I am presented with the playlists I had previously created</li>
