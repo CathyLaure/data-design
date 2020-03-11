@@ -8,6 +8,6 @@
 	<a href="epic/user-case-interaction-flow.php">User Interaction Flow</a>
 </head>
 <body>
-<p>Data Design</p>
+<p>This page includes the persona, user story and user interaction flow of a spotify user called Nah Blessings</p>
 </body>
 </html>
