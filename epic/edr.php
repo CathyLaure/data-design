@@ -14,7 +14,6 @@
 	<h2>Playlist</h2>
 		<li>playlistId (primary key)</li>
 		<li>playlistGenre</li>
-		<li>playlistSongs (foreign key)</li>
 		<li>playlistTitle</li>
 
 	<h2>Song</h2>
