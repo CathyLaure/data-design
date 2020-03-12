@@ -17,14 +17,14 @@
 				<li>location: Rio Rancho, New Mexico</li>
 				<li>Profession: Fullstack Coder</li>
 			</ul>
-		<div/>
+		</div>
 	<h2>Goals</h2>
-			<div class="center">
-				<ul>
-					<li>Listen to songs I love</li>
-					<li>Finding new musics</li>
-					<li>Creating different playlists</li>
-				</ul>
+		<div class="center">
+			<ul>
+				<li>Listen to songs I love</li>
+				<li>Finding new musics</li>
+				<li>Creating different playlists</li>
+			</ul>
 	<h2>Technology</h2>
 			<div class="center">
 				<ul>
