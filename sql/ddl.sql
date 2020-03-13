@@ -1,6 +1,11 @@
 USE ctasama;
 ALTER DATABASE ctasama CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
+DROP TABLE IF EXISTS playlistSong;
+DROP TABLE IF EXISTS song;
+DROP TABLE IF EXISTS playlist;
+DROP TABLE IF EXISTS userAccount;
+
 CREATE TABLE userAccount(
    userAccountId BINARY(16) NOT NULL,
    userAccountEmail VARCHAR(200) NOT NULL,
